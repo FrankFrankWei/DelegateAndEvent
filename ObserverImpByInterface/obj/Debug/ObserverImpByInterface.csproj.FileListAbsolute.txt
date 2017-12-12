@@ -1,0 +1,6 @@
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpByInterface\bin\Debug\ObserverImpByInterface.exe.config
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpByInterface\bin\Debug\ObserverImpByInterface.exe
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpByInterface\bin\Debug\ObserverImpByInterface.pdb
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpByInterface\obj\Debug\ObserverImpByInterface.csprojResolveAssemblyReference.cache
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpByInterface\obj\Debug\ObserverImpByInterface.exe
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpByInterface\obj\Debug\ObserverImpByInterface.pdb

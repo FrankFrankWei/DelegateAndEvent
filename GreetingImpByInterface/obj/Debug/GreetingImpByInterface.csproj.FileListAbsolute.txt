@@ -1,0 +1,6 @@
+E:\vs2013ult_workspace\me\DelegateAndEvent\GreetingImpByInterface\bin\Debug\GreetingImpByInterface.exe.config
+E:\vs2013ult_workspace\me\DelegateAndEvent\GreetingImpByInterface\obj\Debug\GreetingImpByInterface.csprojResolveAssemblyReference.cache
+E:\vs2013ult_workspace\me\DelegateAndEvent\GreetingImpByInterface\bin\Debug\GreetingImpByInterface.exe
+E:\vs2013ult_workspace\me\DelegateAndEvent\GreetingImpByInterface\bin\Debug\GreetingImpByInterface.pdb
+E:\vs2013ult_workspace\me\DelegateAndEvent\GreetingImpByInterface\obj\Debug\GreetingImpByInterface.exe
+E:\vs2013ult_workspace\me\DelegateAndEvent\GreetingImpByInterface\obj\Debug\GreetingImpByInterface.pdb

@@ -1,0 +1,6 @@
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpWithHeater\bin\Debug\ObserverImpWithHeater.exe.config
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpWithHeater\bin\Debug\ObserverImpWithHeater.exe
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpWithHeater\bin\Debug\ObserverImpWithHeater.pdb
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpWithHeater\obj\Debug\ObserverImpWithHeater.csprojResolveAssemblyReference.cache
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpWithHeater\obj\Debug\ObserverImpWithHeater.exe
+E:\vs2013ult_workspace\me\DelegateAndEvent\ObserverImpWithHeater\obj\Debug\ObserverImpWithHeater.pdb

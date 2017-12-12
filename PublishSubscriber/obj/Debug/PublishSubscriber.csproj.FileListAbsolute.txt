@@ -1,0 +1,6 @@
+E:\vs2013ult_workspace\me\DelegateAndEvent\PublishSubscriber\bin\Debug\PublishSubscriber.exe.config
+E:\vs2013ult_workspace\me\DelegateAndEvent\PublishSubscriber\bin\Debug\PublishSubscriber.exe
+E:\vs2013ult_workspace\me\DelegateAndEvent\PublishSubscriber\bin\Debug\PublishSubscriber.pdb
+E:\vs2013ult_workspace\me\DelegateAndEvent\PublishSubscriber\obj\Debug\PublishSubscriber.csprojResolveAssemblyReference.cache
+E:\vs2013ult_workspace\me\DelegateAndEvent\PublishSubscriber\obj\Debug\PublishSubscriber.exe
+E:\vs2013ult_workspace\me\DelegateAndEvent\PublishSubscriber\obj\Debug\PublishSubscriber.pdb
